@@ -38,5 +38,5 @@
 
 <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khshakilahamed&layout=compact" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khshakilahamed&" alt="khshakilahamed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khshakilahamed" alt="khshakilahamed" /></p>
 
