@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kh. Shakil</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/khshakilahamed/coders-image/blob/main/3.gif?raw=true">
-
 
 
 <p align="left"> <a href="https://twitter.com/kh_shakil09" target="blank"><img src="https://img.shields.io/twitter/follow/kh_shakil09?logo=twitter&style=for-the-badge" alt="kh_shakil09" /></a> </p>
